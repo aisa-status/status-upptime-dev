@@ -15,11 +15,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.alternativasinteligentes.com
   # baseUrl: /your-repo-name
-  theme: ocean
+  theme: light
   logoUrl: https://alternativasinteligentes.com/wp-content/uploads/2019/03/logo-aisa.png
-  name: Status
+  # name: Status
   introTitle: "*ESTADOS DE NUESTRAS APLICACIONES Y SERVICIOS**"
-  introMessage: En esta puedes observar el estado de nuestras apps y servicios en produccion. 
+  # introMessage: En esta puedes observar el estado de nuestras apps y servicios en produccion. 
   navbar:
     - title: Status
       href: /
