@@ -13,7 +13,7 @@ sites:
     method: POST
     headers:
       - "Content-Type: application/json"
-    body: '{"userId":"5493416246057","input": "hola"}'
+    body: $TURNOS24X7_BODY
     maxResponseTime: 500
 
 status-website:
