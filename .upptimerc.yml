@@ -9,6 +9,7 @@ sites:
     url: https://chatroom.alternativasinteligentes.com/
   - name: Arturnito
     url: https://reservas.alternativasinteligentes.com/
+    icon: https://i.ibb.co/QpSf3c1/aisa-turnos24x7-isotipo.jpg
     method: POST
     headers:
       - "Content-Type: application/json"
