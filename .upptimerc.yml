@@ -9,6 +9,11 @@ sites:
     url: https://chatroom.alternativasinteligentes.com/
   - name: Arturnito
     url: https://reservas.alternativasinteligentes.com/
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{"userId":"5493416246057","input": "hola"}'
+    maxResponseTime: 500
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
