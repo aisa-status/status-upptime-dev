@@ -7,7 +7,7 @@ sites:
     url: alternativasinteligentes.com
   - name: Panel Chatroom
     url: https://chatroom.alternativasinteligentes.com/
-  - name: Arturnito
+  - name: Turnos 24x7
     url: https://reservas.alternativasinteligentes.com/
     icon: https://i.ibb.co/QpSf3c1/aisa-turnos24x7-isotipo.jpg
     method: POST
