@@ -4,19 +4,19 @@
     "url": "alternativasinteligentes.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "alternativas-inteligentes-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 732,
-    "timeDay": 476,
-    "timeWeek": 631,
-    "timeMonth": 732,
-    "timeYear": 732,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 731,
+    "timeDay": 544,
+    "timeWeek": 637,
+    "timeMonth": 731,
+    "timeYear": 731,
     "dailyMinutesDown": {
-      "2022-02-28": 0
+      "2022-02-28": 9
     }
   },
   {
