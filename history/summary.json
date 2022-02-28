@@ -4,18 +4,20 @@
     "url": "alternativasinteligentes.com",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "alternativas-inteligentes-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 745,
-    "timeDay": 734,
-    "timeWeek": 690,
-    "timeMonth": 745,
-    "timeYear": 745,
-    "dailyMinutesDown": {}
+    "time": 732,
+    "timeDay": 476,
+    "timeWeek": 631,
+    "timeMonth": 732,
+    "timeYear": 732,
+    "dailyMinutesDown": {
+      "2022-02-28": 0
+    }
   },
   {
     "name": "Panel Chatroom",
