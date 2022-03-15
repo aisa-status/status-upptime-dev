@@ -10,11 +10,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
-    "time": 698,
-    "timeDay": 597,
+    "time": 699,
+    "timeDay": 556,
     "timeWeek": 609,
-    "timeMonth": 672,
-    "timeYear": 698,
+    "timeMonth": 667,
+    "timeYear": 699,
     "dailyMinutesDown": {
       "2022-03-08": 16,
       "2022-03-03": 17
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 276,
-    "timeWeek": 160,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "time": 145,
+    "timeDay": 233,
+    "timeWeek": 166,
+    "timeMonth": 142,
+    "timeYear": 145,
     "dailyMinutesDown": {}
   },
   {
@@ -44,18 +44,19 @@
     "icon": "https://i.ibb.co/QpSf3c1/aisa-turnos24x7-isotipo.jpg",
     "slug": "turnos-24x7",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 293,
-    "timeWeek": 250,
-    "timeMonth": 219,
-    "timeYear": 219,
+    "uptime": "98.24%",
+    "uptimeDay": "53.73%",
+    "uptimeWeek": "93.39%",
+    "uptimeMonth": "98.24%",
+    "uptimeYear": "98.24%",
+    "time": 226,
+    "timeDay": 352,
+    "timeWeek": 275,
+    "timeMonth": 226,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2022-03-14": 0
+      "2022-03-15": 97,
+      "2022-03-14": 569
     }
   }
 ]
