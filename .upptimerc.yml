@@ -8,7 +8,7 @@ sites:
   - name: Panel Chatroom
     url: https://chatroom.alternativasinteligentes.com/
   - name: Turnos 24x7
-    url: https://reservas.alternativasinteligentes.com/
+    url: https://reserva.alternativasinteligentes.com/
     icon: https://i.ibb.co/QpSf3c1/aisa-turnos24x7-isotipo.jpg
     method: POST
     headers:
