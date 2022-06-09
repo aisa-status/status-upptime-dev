@@ -7,7 +7,7 @@ sites:
     url: https://chatroom-dev.alternativasinteligentes.com/
     
   - name: Socket Chatroom
-    url: https://chatroom-dev-socket.alternativasinteligentes.com/
+    url: https://chatroom-socket-dev.alternativasinteligentes.com/
     expectedStatusCodes:
       - 200
       - 201
