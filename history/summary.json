@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/chatroom-socket-dev.alternativasinteligentes.com",
     "slug": "socket-chatroom",
     "status": "up",
-    "uptime": "4.52%",
-    "uptimeDay": "4.52%",
-    "uptimeWeek": "4.52%",
-    "uptimeMonth": "4.52%",
-    "uptimeYear": "4.52%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 245,
     "timeDay": 245,
     "timeWeek": 245,
     "timeMonth": 245,
     "timeYear": 245,
-    "dailyMinutesDown": {
-      "2022-06-09": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BCR Bot",
