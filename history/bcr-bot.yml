@@ -1,7 +1,7 @@
 url: https://bcr.alternativasinteligentes.com/BCRApi/web/chatbot
-status: up
+status: degraded
 code: 200
-responseTime: 768
-lastUpdated: 2022-06-15T15:41:16.636Z
+responseTime: 3625
+lastUpdated: 2022-06-15T16:00:41.202Z
 startTime: Thu Jun 09 2022 21:15:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
