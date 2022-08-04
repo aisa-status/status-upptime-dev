@@ -51,9 +51,9 @@
     "slug": "bcr-bot",
     "status": "up",
     "uptime": "82.80%",
-    "uptimeDay": "90.36%",
-    "uptimeWeek": "91.72%",
-    "uptimeMonth": "95.19%",
+    "uptimeDay": "90.96%",
+    "uptimeWeek": "91.80%",
+    "uptimeMonth": "95.21%",
     "uptimeYear": "82.80%",
     "time": 1280,
     "timeDay": 875,
@@ -61,7 +61,7 @@
     "timeMonth": 1032,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2022-08-04": 139,
+      "2022-08-04": 130,
       "2022-08-03": 265,
       "2022-08-02": 259,
       "2022-08-01": 149,
@@ -96,7 +96,7 @@
       "2022-06-15": 302,
       "2022-06-14": 846,
       "2022-06-13": 1002,
-      "2022-06-12": 357
+      "2022-06-12": 374
     }
   },
   {
@@ -104,16 +104,16 @@
     "url": "https://reservas-dev.alternativasinteligentes.com/",
     "icon": "https://i.ibb.co/QpSf3c1/aisa-turnos24x7-isotipo.jpg",
     "slug": "turnos-24x7",
-    "status": "up",
+    "status": "degraded",
     "uptime": "86.91%",
-    "uptimeDay": "87.48%",
+    "uptimeDay": "87.46%",
     "uptimeWeek": "94.22%",
     "uptimeMonth": "97.01%",
     "uptimeYear": "86.91%",
     "time": 951,
-    "timeDay": 802,
-    "timeWeek": 990,
-    "timeMonth": 865,
+    "timeDay": 827,
+    "timeWeek": 992,
+    "timeMonth": 867,
     "timeYear": 951,
     "dailyMinutesDown": {
       "2022-08-04": 161,
