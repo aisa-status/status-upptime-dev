@@ -49,16 +49,16 @@
     "url": "https://bcr.alternativasinteligentes.com/BCRApi/web/chatbot",
     "icon": "https://favicons.githubusercontent.com/bcr.alternativasinteligentes.com",
     "slug": "bcr-bot",
-    "status": "up",
-    "uptime": "83.05%",
-    "uptimeDay": "93.18%",
+    "status": "degraded",
+    "uptime": "83.08%",
+    "uptimeDay": "93.17%",
     "uptimeWeek": "81.29%",
     "uptimeMonth": "91.53%",
-    "uptimeYear": "83.05%",
+    "uptimeYear": "83.08%",
     "time": 1239,
-    "timeDay": 878,
-    "timeWeek": 851,
-    "timeMonth": 999,
+    "timeDay": 915,
+    "timeWeek": 862,
+    "timeMonth": 1002,
     "timeYear": 1239,
     "dailyMinutesDown": {
       "2022-08-11": 80,
@@ -100,8 +100,7 @@
       "2022-06-16": 20,
       "2022-06-15": 302,
       "2022-06-14": 846,
-      "2022-06-13": 1002,
-      "2022-06-12": 16
+      "2022-06-13": 1002
     }
   },
   {
@@ -109,16 +108,16 @@
     "url": "https://reservas-dev.alternativasinteligentes.com/",
     "icon": "https://i.ibb.co/QpSf3c1/aisa-turnos24x7-isotipo.jpg",
     "slug": "turnos-24x7",
-    "status": "up",
-    "uptime": "98.02%",
-    "uptimeDay": "89.63%",
-    "uptimeWeek": "81.31%",
+    "status": "degraded",
+    "uptime": "98.03%",
+    "uptimeDay": "89.62%",
+    "uptimeWeek": "81.58%",
     "uptimeMonth": "93.09%",
-    "uptimeYear": "98.02%",
+    "uptimeYear": "98.03%",
     "time": 942,
-    "timeDay": 842,
-    "timeWeek": 864,
-    "timeMonth": 865,
+    "timeDay": 852,
+    "timeWeek": 867,
+    "timeMonth": 866,
     "timeYear": 942,
     "dailyMinutesDown": {
       "2022-08-11": 105,
@@ -154,8 +153,7 @@
       "2022-06-13": 520,
       "2022-06-12": 359,
       "2022-06-11": 19,
-      "2022-06-10": 342,
-      "2022-05-26": 24
+      "2022-06-10": 342
     }
   },
   {
