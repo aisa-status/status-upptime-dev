@@ -49,18 +49,19 @@
     "url": "https://bcr.alternativasinteligentes.com/BCRApi/web/chatbot",
     "icon": "https://favicons.githubusercontent.com/bcr.alternativasinteligentes.com",
     "slug": "bcr-bot",
-    "status": "up",
-    "uptime": "85.74%",
-    "uptimeDay": "92.00%",
+    "status": "degraded",
+    "uptime": "85.80%",
+    "uptimeDay": "92.14%",
     "uptimeWeek": "89.08%",
     "uptimeMonth": "90.52%",
-    "uptimeYear": "85.74%",
+    "uptimeYear": "85.80%",
     "time": 1209,
-    "timeDay": 876,
-    "timeWeek": 881,
+    "timeDay": 877,
+    "timeWeek": 882,
     "timeMonth": 986,
     "timeYear": 1209,
     "dailyMinutesDown": {
+      "2022-08-16": 0,
       "2022-08-15": 116,
       "2022-08-12": 239,
       "2022-08-11": 222,
@@ -100,7 +101,7 @@
       "2022-06-18": 19,
       "2022-06-17": 33,
       "2022-06-16": 20,
-      "2022-06-15": 221
+      "2022-06-15": 164
     }
   },
   {
@@ -110,9 +111,9 @@
     "slug": "turnos-24x7",
     "status": "up",
     "uptime": "98.01%",
-    "uptimeDay": "72.95%",
-    "uptimeWeek": "85.89%",
-    "uptimeMonth": "91.36%",
+    "uptimeDay": "73.53%",
+    "uptimeWeek": "85.98%",
+    "uptimeMonth": "91.38%",
     "uptimeYear": "98.01%",
     "time": 934,
     "timeDay": 860,
@@ -120,7 +121,7 @@
     "timeMonth": 870,
     "timeYear": 934,
     "dailyMinutesDown": {
-      "2022-08-16": 191,
+      "2022-08-16": 183,
       "2022-08-15": 198,
       "2022-08-12": 223,
       "2022-08-11": 278,
@@ -154,7 +155,7 @@
       "2022-06-18": 21,
       "2022-06-15": 113,
       "2022-06-13": 520,
-      "2022-06-12": 113
+      "2022-06-12": 130
     }
   },
   {
