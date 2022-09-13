@@ -49,17 +49,17 @@
     "url": "https://bcr.alternativasinteligentes.com/BCRApi/web/chatbot",
     "icon": "https://favicons.githubusercontent.com/bcr.alternativasinteligentes.com",
     "slug": "bcr-bot",
-    "status": "up",
-    "uptime": "93.24%",
-    "uptimeDay": "97.88%",
+    "status": "degraded",
+    "uptime": "93.26%",
+    "uptimeDay": "97.87%",
     "uptimeWeek": "96.89%",
     "uptimeMonth": "85.63%",
-    "uptimeYear": "93.24%",
-    "time": 1156,
-    "timeDay": 822,
-    "timeWeek": 826,
-    "timeMonth": 979,
-    "timeYear": 1156,
+    "uptimeYear": "93.26%",
+    "time": 1193,
+    "timeDay": 7874,
+    "timeWeek": 1833,
+    "timeMonth": 1114,
+    "timeYear": 1193,
     "dailyMinutesDown": {
       "2022-09-13": 31,
       "2022-09-11": 27,
@@ -94,7 +94,7 @@
       "2022-08-04": 164,
       "2022-08-03": 265,
       "2022-08-02": 259,
-      "2022-08-01": 149
+      "2022-08-01": 127
     }
   },
   {
