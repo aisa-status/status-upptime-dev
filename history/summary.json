@@ -33,7 +33,7 @@
     "uptime": "92.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.24%",
+    "uptimeMonth": "74.35%",
     "uptimeYear": "92.15%",
     "time": 293,
     "timeDay": 193,
@@ -62,16 +62,16 @@
     "url": "https://bcr.alternativasinteligentes.com/BCRApi/web/chatbot",
     "icon": "https://icons.duckduckgo.com/ip3/bcr.alternativasinteligentes.com.ico",
     "slug": "bcr-bot",
-    "status": "up",
-    "uptime": "89.84%",
-    "uptimeDay": "78.54%",
+    "status": "degraded",
+    "uptime": "89.86%",
+    "uptimeDay": "79.99%",
     "uptimeWeek": "86.13%",
     "uptimeMonth": "90.19%",
-    "uptimeYear": "89.84%",
+    "uptimeYear": "89.86%",
     "time": 1392,
-    "timeDay": 907,
-    "timeWeek": 872,
-    "timeMonth": 1258,
+    "timeDay": 973,
+    "timeWeek": 885,
+    "timeMonth": 1261,
     "timeYear": 1392,
     "dailyMinutesDown": {
       "2022-10-20": 268,
@@ -119,8 +119,7 @@
       "2022-08-19": 254,
       "2022-08-18": 147,
       "2022-08-17": 262,
-      "2022-08-16": 316,
-      "2022-08-15": 43
+      "2022-08-16": 316
     }
   },
   {
@@ -130,17 +129,17 @@
     "slug": "turnos-24x7",
     "status": "up",
     "uptime": "98.02%",
-    "uptimeDay": "81.20%",
-    "uptimeWeek": "89.19%",
-    "uptimeMonth": "96.91%",
+    "uptimeDay": "82.15%",
+    "uptimeWeek": "89.34%",
+    "uptimeMonth": "96.94%",
     "uptimeYear": "98.02%",
     "time": 909,
     "timeDay": 886,
-    "timeWeek": 926,
+    "timeWeek": 917,
     "timeMonth": 834,
     "timeYear": 909,
     "dailyMinutesDown": {
-      "2022-10-20": 271,
+      "2022-10-20": 257,
       "2022-10-19": 152,
       "2022-10-18": 277,
       "2022-10-17": 337,
@@ -171,7 +170,7 @@
       "2022-08-17": 191,
       "2022-08-16": 404,
       "2022-08-15": 198,
-      "2022-08-12": 171
+      "2022-08-12": 190
     }
   },
   {
