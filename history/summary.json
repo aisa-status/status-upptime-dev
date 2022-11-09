@@ -76,16 +76,16 @@
     "url": "https://bcr.alternativasinteligentes.com/BCRApi/web/chatbot",
     "icon": "https://icons.duckduckgo.com/ip3/bcr.alternativasinteligentes.com.ico",
     "slug": "bcr-bot",
-    "status": "up",
-    "uptime": "85.01%",
-    "uptimeDay": "91.52%",
-    "uptimeWeek": "70.74%",
+    "status": "degraded",
+    "uptime": "85.10%",
+    "uptimeDay": "91.51%",
+    "uptimeWeek": "71.51%",
     "uptimeMonth": "62.89%",
-    "uptimeYear": "85.01%",
+    "uptimeYear": "85.10%",
     "time": 1498,
-    "timeDay": 864,
-    "timeWeek": 2962,
-    "timeMonth": 1861,
+    "timeDay": 920,
+    "timeWeek": 2920,
+    "timeMonth": 1859,
     "timeYear": 1498,
     "dailyMinutesDown": {
       "2022-11-09": 122,
@@ -145,7 +145,7 @@
       "2022-08-24": 234,
       "2022-08-23": 209,
       "2022-08-22": 137,
-      "2022-08-19": 254
+      "2022-08-19": 79
     }
   },
   {
