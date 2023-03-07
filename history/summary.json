@@ -111,7 +111,7 @@
     "timeMonth": 608,
     "timeYear": 1423,
     "dailyMinutesDown": {
-      "2023-03-07": 1402,
+      "2023-03-07": 1420,
       "2023-03-06": 1440,
       "2023-03-05": 1440,
       "2023-03-04": 1440,
@@ -224,16 +224,16 @@
     "url": "https://reservas-dev.alternativasinteligentes.com/",
     "icon": "https://i.ibb.co/QpSf3c1/aisa-turnos24x7-isotipo.jpg",
     "slug": "turnos-24x7",
-    "status": "up",
-    "uptime": "98.98%",
-    "uptimeDay": "19.33%",
-    "uptimeWeek": "43.79%",
-    "uptimeMonth": "87.07%",
-    "uptimeYear": "98.92%",
-    "time": 1130,
-    "timeDay": 2439,
-    "timeWeek": 2264,
-    "timeMonth": 1648,
+    "status": "degraded",
+    "uptime": "98.99%",
+    "uptimeDay": "20.56%",
+    "uptimeWeek": "44.30%",
+    "uptimeMonth": "87.18%",
+    "uptimeYear": "98.93%",
+    "time": 1131,
+    "timeDay": 2437,
+    "timeWeek": 2270,
+    "timeMonth": 1649,
     "timeYear": 1141,
     "dailyMinutesDown": {
       "2023-03-07": 1124,
@@ -241,7 +241,7 @@
       "2023-03-05": 1032,
       "2023-03-04": 823,
       "2023-03-03": 1012,
-      "2023-03-02": 638
+      "2023-03-02": 586
     }
   },
   {
