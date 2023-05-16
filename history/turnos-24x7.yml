@@ -1,7 +1,7 @@
 url: https://reservas-dev.alternativasinteligentes.com/
-status: up
+status: degraded
 code: 200
-responseTime: 779
-lastUpdated: 2023-05-16T21:46:24.289Z
+responseTime: 995
+lastUpdated: 2023-05-16T21:55:10.325Z
 startTime: Wed Feb 16 2022 19:51:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
