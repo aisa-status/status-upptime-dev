@@ -36,7 +36,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatroom-socket-dev.alternativasinteligentes.com.ico",
     "slug": "socket-chatroom",
     "status": "down",
-    "uptime": "69.61%",
+    "uptime": "69.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -47,7 +47,7 @@
     "timeMonth": 157,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2023-06-10": 638,
+      "2023-06-10": 647,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
@@ -185,7 +185,7 @@
     "timeMonth": 454,
     "timeYear": 1336,
     "dailyMinutesDown": {
-      "2023-06-10": 638,
+      "2023-06-10": 647,
       "2023-06-09": 1440,
       "2023-06-08": 1440,
       "2023-06-07": 1440,
@@ -393,15 +393,15 @@
     "url": "https://reservas-dev.alternativasinteligentes.com/",
     "icon": "https://i.ibb.co/QpSf3c1/aisa-turnos24x7-isotipo.jpg",
     "slug": "turnos-24x7",
-    "status": "up",
-    "uptime": "97.40%",
-    "uptimeDay": "0.02%",
+    "status": "degraded",
+    "uptime": "97.41%",
+    "uptimeDay": "0.62%",
     "uptimeWeek": "1.25%",
-    "uptimeMonth": "59.11%",
-    "uptimeYear": "96.59%",
+    "uptimeMonth": "59.18%",
+    "uptimeYear": "96.60%",
     "time": 1266,
-    "timeDay": 918,
-    "timeWeek": 1103,
+    "timeDay": 953,
+    "timeWeek": 1112,
     "timeMonth": 901,
     "timeYear": 1271,
     "dailyMinutesDown": {
@@ -419,7 +419,7 @@
       "2023-05-30": 1131,
       "2023-05-29": 1091,
       "2023-05-28": 888,
-      "2023-05-27": 441
+      "2023-05-27": 411
     }
   },
   {
