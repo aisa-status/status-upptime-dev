@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 185,
-    "timeDay": 100,
-    "timeWeek": 157,
-    "timeMonth": 166,
+    "timeDay": 162,
+    "timeWeek": 152,
+    "timeMonth": 163,
     "timeYear": 180,
     "dailyMinutesDown": {
       "2023-09-20": 21,
@@ -22,8 +22,7 @@
       "2022-12-30": 183,
       "2022-12-29": 16,
       "2022-11-30": 135,
-      "2022-11-04": 124,
-      "2022-10-25": 61
+      "2022-11-04": 124
     }
   },
   {
@@ -32,15 +31,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatroom-socket-dev.alternativasinteligentes.com.ico",
     "slug": "socket-chatroom",
     "status": "up",
-    "uptime": "57.45%",
+    "uptime": "57.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "44.44%",
     "time": 183,
-    "timeDay": 92,
-    "timeWeek": 143,
-    "timeMonth": 176,
+    "timeDay": 168,
+    "timeWeek": 152,
+    "timeMonth": 175,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2023-09-20": 801,
@@ -248,8 +247,7 @@
       "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 1440,
-      "2022-10-26": 1440,
-      "2022-10-25": 801
+      "2022-10-26": 1440
     }
   },
   {
@@ -258,18 +256,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bcr.alternativasinteligentes.com.ico",
     "slug": "bcr-bot",
     "status": "down",
-    "uptime": "40.25%",
+    "uptime": "40.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "18.36%",
-    "time": 1284,
-    "timeDay": 65,
-    "timeWeek": 124,
-    "timeMonth": 398,
+    "uptimeYear": "18.08%",
+    "time": 1283,
+    "timeDay": 187,
+    "timeWeek": 134,
+    "timeMonth": 348,
     "timeYear": 1025,
     "dailyMinutesDown": {
-      "2023-10-24": 77,
+      "2023-10-25": 77,
+      "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -594,8 +593,7 @@
       "2022-10-29": 1440,
       "2022-10-28": 1440,
       "2022-10-27": 1440,
-      "2022-10-26": 1330,
-      "2022-10-25": 163
+      "2022-10-26": 1330
     }
   },
   {
@@ -604,18 +602,19 @@
     "icon": "https://i.ibb.co/QpSf3c1/aisa-turnos24x7-isotipo.jpg",
     "slug": "turnos-24x7",
     "status": "degraded",
-    "uptime": "75.90%",
+    "uptime": "75.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "59.45%",
+    "uptimeYear": "59.17%",
     "time": 1338,
-    "timeDay": 1258,
-    "timeWeek": 1325,
-    "timeMonth": 1326,
-    "timeYear": 1358,
+    "timeDay": 1287,
+    "timeWeek": 1315,
+    "timeMonth": 1325,
+    "timeYear": 1359,
     "dailyMinutesDown": {
-      "2023-10-24": 77,
+      "2023-10-25": 77,
+      "2023-10-24": 1440,
       "2023-10-23": 1440,
       "2023-10-22": 1440,
       "2023-10-21": 1440,
@@ -780,17 +779,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 187,
-    "timeDay": 119,
-    "timeWeek": 145,
-    "timeMonth": 158,
+    "timeDay": 163,
+    "timeWeek": 158,
+    "timeMonth": 157,
     "timeYear": 182,
     "dailyMinutesDown": {
       "2023-09-07": 56,
       "2023-03-31": 152,
       "2022-12-30": 195,
       "2022-11-30": 111,
-      "2022-11-04": 119,
-      "2022-10-25": 55
+      "2022-11-04": 119
     }
   },
   {
@@ -805,17 +803,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 342,
-    "timeDay": 166,
-    "timeWeek": 218,
-    "timeMonth": 240,
+    "timeDay": 222,
+    "timeWeek": 227,
+    "timeMonth": 237,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2023-09-07": 53,
       "2023-03-31": 150,
       "2022-12-30": 192,
       "2022-11-30": 110,
-      "2022-11-04": 118,
-      "2022-10-25": 54
+      "2022-11-04": 118
     }
   },
   {
@@ -829,18 +826,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 273,
-    "timeDay": 87,
-    "timeWeek": 145,
-    "timeMonth": 155,
+    "time": 272,
+    "timeDay": 113,
+    "timeWeek": 136,
+    "timeMonth": 152,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2023-09-07": 52,
       "2023-03-31": 149,
       "2022-12-30": 183,
       "2022-11-30": 108,
-      "2022-11-04": 116,
-      "2022-10-25": 42
+      "2022-11-04": 116
     }
   }
 ]
