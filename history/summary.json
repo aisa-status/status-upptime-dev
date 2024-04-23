@@ -27,11 +27,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatroom-socket-dev.alternativasinteligentes.com.ico",
     "slug": "socket-chatroom",
     "status": "up",
-    "uptime": "68.78%",
+    "uptime": "68.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "58.74%",
+    "uptimeYear": "58.76%",
     "time": 174,
     "timeDay": 65,
     "timeWeek": 124,
@@ -187,8 +187,7 @@
       "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
-      "2023-04-25": 1440,
-      "2023-04-24": 1440
+      "2023-04-25": 1440
     }
   },
   {
@@ -208,7 +207,8 @@
     "timeMonth": 840,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2024-04-22": 1402,
+      "2024-04-23": 80,
+      "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
@@ -571,8 +571,7 @@
       "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
-      "2023-04-25": 1440,
-      "2023-04-24": 1440
+      "2023-04-25": 1440
     }
   },
   {
@@ -581,18 +580,19 @@
     "icon": "https://i.ibb.co/QpSf3c1/aisa-turnos24x7-isotipo.jpg",
     "slug": "turnos-24x7",
     "status": "degraded",
-    "uptime": "58.56%",
+    "uptime": "58.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.61%",
+    "uptimeYear": "9.58%",
     "time": 1070,
     "timeDay": 1966,
     "timeWeek": 2013,
     "timeMonth": 1925,
     "timeYear": 1027,
     "dailyMinutesDown": {
-      "2024-04-22": 1402,
+      "2024-04-23": 80,
+      "2024-04-22": 1440,
       "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
