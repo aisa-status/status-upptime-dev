@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 189,
-    "timeDay": 148,
-    "timeWeek": 177,
-    "timeMonth": 182,
+    "timeDay": 197,
+    "timeWeek": 167,
+    "timeMonth": 185,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2023-12-12": 33,
@@ -26,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatroom-socket-dev.alternativasinteligentes.com.ico",
     "slug": "socket-chatroom",
     "status": "up",
-    "uptime": "74.13%",
+    "uptime": "74.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.40%",
+    "uptimeYear": "97.67%",
     "time": 170,
-    "timeDay": 138,
-    "timeWeek": 187,
-    "timeMonth": 174,
+    "timeDay": 243,
+    "timeWeek": 180,
+    "timeMonth": 176,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2023-12-12": 32,
@@ -44,8 +44,7 @@
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
-      "2023-09-14": 1440,
-      "2023-09-13": 1440
+      "2023-09-14": 1440
     }
   },
   {
@@ -54,18 +53,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bcr.alternativasinteligentes.com.ico",
     "slug": "bcr-bot",
     "status": "down",
-    "uptime": "24.47%",
+    "uptime": "24.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 854,
+    "time": 855,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1103,
-    "timeYear": 989,
+    "timeMonth": 1155,
+    "timeYear": 991,
     "dailyMinutesDown": {
-      "2024-09-11": 103,
+      "2024-09-12": 103,
+      "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
@@ -428,8 +428,7 @@
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
-      "2023-09-14": 1440,
-      "2023-09-13": 1440
+      "2023-09-14": 1440
     }
   },
   {
@@ -438,18 +437,19 @@
     "icon": "https://i.ibb.co/QpSf3c1/aisa-turnos24x7-isotipo.jpg",
     "slug": "turnos-24x7",
     "status": "degraded",
-    "uptime": "49.74%",
+    "uptime": "49.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1747,
-    "timeDay": 2432,
-    "timeWeek": 2397,
-    "timeMonth": 2426,
-    "timeYear": 1942,
+    "time": 1750,
+    "timeDay": 2442,
+    "timeWeek": 2392,
+    "timeMonth": 2431,
+    "timeYear": 1945,
     "dailyMinutesDown": {
-      "2024-09-11": 103,
+      "2024-09-12": 103,
+      "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
@@ -812,8 +812,7 @@
       "2023-09-17": 1440,
       "2023-09-16": 1440,
       "2023-09-15": 1440,
-      "2023-09-14": 1440,
-      "2023-09-13": 1440
+      "2023-09-14": 1440
     }
   },
   {
@@ -828,9 +827,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 169,
-    "timeDay": 140,
-    "timeWeek": 171,
-    "timeMonth": 201,
+    "timeDay": 130,
+    "timeWeek": 158,
+    "timeMonth": 199,
     "timeYear": 169,
     "dailyMinutesDown": {
       "2023-12-12": 42
@@ -848,8 +847,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 350,
-    "timeDay": 258,
-    "timeWeek": 263,
+    "timeDay": 170,
+    "timeWeek": 237,
     "timeMonth": 263,
     "timeYear": 309,
     "dailyMinutesDown": {
@@ -869,9 +868,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 178,
-    "timeDay": 140,
-    "timeWeek": 181,
-    "timeMonth": 166,
+    "timeDay": 133,
+    "timeWeek": 160,
+    "timeMonth": 164,
     "timeYear": 160,
     "dailyMinutesDown": {
       "2023-12-12": 29
