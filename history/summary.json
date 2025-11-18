@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatroom-dev.alternativasinteligentes.com.ico",
     "slug": "panel-chatroom",
     "status": "up",
-    "uptime": "83.43%",
+    "uptime": "83.45%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "16.60%",
-    "uptimeMonth": "1.97%",
-    "uptimeYear": "37.70%",
+    "uptimeWeek": "30.87%",
+    "uptimeMonth": "5.26%",
+    "uptimeYear": "37.97%",
     "time": 9175,
-    "timeDay": 330,
-    "timeWeek": 12357,
-    "timeMonth": 17341,
-    "timeYear": 11877,
+    "timeDay": 366,
+    "timeWeek": 9955,
+    "timeMonth": 16781,
+    "timeYear": 11846,
     "dailyMinutesDown": {
       "2025-11-15": 1332,
       "2025-11-14": 1440,
@@ -244,8 +244,7 @@
       "2025-04-04": 220,
       "2024-12-26": 16,
       "2024-12-12": 18,
-      "2024-11-19": 784,
-      "2024-11-18": 1440
+      "2024-11-19": 784
     }
   },
   {
@@ -254,16 +253,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatroom-socket-dev.alternativasinteligentes.com.ico",
     "slug": "socket-chatroom",
     "status": "up",
-    "uptime": "64.92%",
+    "uptime": "64.95%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "16.60%",
-    "uptimeMonth": "1.98%",
-    "uptimeYear": "37.71%",
+    "uptimeWeek": "30.87%",
+    "uptimeMonth": "5.26%",
+    "uptimeYear": "37.98%",
     "time": 9237,
-    "timeDay": 349,
-    "timeWeek": 12258,
-    "timeMonth": 17339,
-    "timeYear": 11888,
+    "timeDay": 277,
+    "timeWeek": 9865,
+    "timeMonth": 16765,
+    "timeYear": 11857,
     "dailyMinutesDown": {
       "2025-11-15": 1332,
       "2025-11-14": 1440,
@@ -492,8 +491,7 @@
       "2025-04-05": 1440,
       "2025-04-04": 219,
       "2024-12-12": 16,
-      "2024-11-19": 784,
-      "2024-11-18": 1440
+      "2024-11-19": 784
     }
   },
   {
@@ -502,18 +500,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bcr.alternativasinteligentes.com.ico",
     "slug": "bcr-bot",
     "status": "down",
-    "uptime": "16.06%",
+    "uptime": "16.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1359,
+    "time": 1378,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 19521,
     "dailyMinutesDown": {
-      "2025-11-17": 126,
+      "2025-11-18": 124,
+      "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -876,8 +875,7 @@
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
-      "2024-11-19": 1440,
-      "2024-11-18": 1440
+      "2024-11-19": 1440
     }
   },
   {
@@ -886,18 +884,19 @@
     "icon": "https://i.ibb.co/QpSf3c1/aisa-turnos24x7-isotipo.jpg",
     "slug": "turnos-24x7",
     "status": "down",
-    "uptime": "35.16%",
+    "uptime": "35.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "4.14%",
-    "time": 12543,
-    "timeDay": 266,
-    "timeWeek": 11842,
-    "timeMonth": 16876,
-    "timeYear": 14353,
+    "time": 12540,
+    "timeDay": 233,
+    "timeWeek": 9908,
+    "timeMonth": 16334,
+    "timeYear": 14327,
     "dailyMinutesDown": {
-      "2025-11-17": 126,
+      "2025-11-18": 124,
+      "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -1246,8 +1245,7 @@
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
-      "2024-11-19": 1440,
-      "2024-11-18": 1440
+      "2024-11-19": 1440
     }
   },
   {
@@ -1256,18 +1254,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth-dev.alternativasinteligentes.com.ico",
     "slug": "auth-user-service",
     "status": "down",
-    "uptime": "80.76%",
+    "uptime": "80.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "34.22%",
     "time": 179,
-    "timeDay": 208,
-    "timeWeek": 212,
-    "timeMonth": 203,
+    "timeDay": 226,
+    "timeWeek": 214,
+    "timeMonth": 205,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2025-11-17": 126,
+      "2025-11-18": 124,
+      "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
       "2025-11-14": 1440,
@@ -1506,8 +1505,7 @@
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 812,
-      "2024-11-19": 784,
-      "2024-11-18": 1440
+      "2024-11-19": 784
     }
   },
   {
@@ -1516,16 +1514,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sender.alternativasinteligentes.com.ico",
     "slug": "sender-service",
     "status": "up",
-    "uptime": "81.78%",
+    "uptime": "81.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "16.60%",
-    "uptimeMonth": "1.98%",
-    "uptimeYear": "37.72%",
-    "time": 9163,
-    "timeDay": 300,
-    "timeWeek": 12357,
-    "timeMonth": 17300,
-    "timeYear": 11797,
+    "uptimeWeek": "30.87%",
+    "uptimeMonth": "5.26%",
+    "uptimeYear": "37.99%",
+    "time": 9164,
+    "timeDay": 268,
+    "timeWeek": 9960,
+    "timeMonth": 16735,
+    "timeYear": 11766,
     "dailyMinutesDown": {
       "2025-11-15": 1333,
       "2025-11-14": 1440,
@@ -1753,8 +1751,7 @@
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 216,
-      "2024-11-19": 784,
-      "2024-11-18": 1440
+      "2024-11-19": 784
     }
   },
   {
@@ -1763,16 +1760,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/templates-sender-service.alternativasinteligentes.com.ico",
     "slug": "templates-sender-service",
     "status": "up",
-    "uptime": "81.78%",
+    "uptime": "81.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "16.60%",
-    "uptimeMonth": "1.98%",
-    "uptimeYear": "37.73%",
-    "time": 9253,
-    "timeDay": 264,
-    "timeWeek": 12360,
-    "timeMonth": 17319,
-    "timeYear": 11854,
+    "uptimeWeek": "30.87%",
+    "uptimeMonth": "5.27%",
+    "uptimeYear": "38.00%",
+    "time": 9254,
+    "timeDay": 302,
+    "timeWeek": 9947,
+    "timeMonth": 16754,
+    "timeYear": 11824,
     "dailyMinutesDown": {
       "2025-11-15": 1333,
       "2025-11-14": 1440,
@@ -2000,8 +1997,7 @@
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 215,
-      "2024-11-19": 784,
-      "2024-11-18": 1440
+      "2024-11-19": 784
     }
   }
 ]
