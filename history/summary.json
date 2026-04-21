@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatroom-dev.alternativasinteligentes.com.ico",
     "slug": "panel-chatroom",
     "status": "down",
-    "uptime": "76.87%",
+    "uptime": "76.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "7.94%",
     "time": 11559,
-    "timeDay": 69,
-    "timeWeek": 132,
-    "timeMonth": 13325,
-    "timeYear": 16289,
+    "timeDay": 178,
+    "timeWeek": 138,
+    "timeMonth": 12701,
+    "timeYear": 16240,
     "dailyMinutesDown": {
-      "2026-04-20": 224,
+      "2026-04-21": 215,
+      "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
@@ -358,8 +359,7 @@
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
-      "2025-04-22": 1440,
-      "2025-04-21": 1440
+      "2025-04-22": 1440
     }
   },
   {
@@ -368,18 +368,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chatroom-socket-dev.alternativasinteligentes.com.ico",
     "slug": "socket-chatroom",
     "status": "down",
-    "uptime": "59.79%",
+    "uptime": "59.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "7.96%",
     "time": 11627,
-    "timeDay": 89,
-    "timeWeek": 132,
-    "timeMonth": 13325,
-    "timeYear": 16296,
+    "timeDay": 96,
+    "timeWeek": 111,
+    "timeMonth": 12692,
+    "timeYear": 16248,
     "dailyMinutesDown": {
-      "2026-04-20": 224,
+      "2026-04-21": 215,
+      "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
@@ -721,8 +722,7 @@
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
-      "2025-04-22": 1440,
-      "2025-04-21": 1440
+      "2025-04-22": 1440
     }
   },
   {
@@ -731,7 +731,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bcr.alternativasinteligentes.com.ico",
     "slug": "bcr-bot",
     "status": "down",
-    "uptime": "14.30%",
+    "uptime": "14.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -739,10 +739,11 @@
     "time": 19655,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 19815,
+    "timeMonth": 19674,
     "timeYear": 19655,
     "dailyMinutesDown": {
-      "2026-04-20": 224,
+      "2026-04-21": 215,
+      "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
@@ -1105,8 +1106,7 @@
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
-      "2025-04-22": 1440,
-      "2025-04-21": 1440
+      "2025-04-22": 1440
     }
   },
   {
@@ -1115,18 +1115,19 @@
     "icon": "https://i.ibb.co/QpSf3c1/aisa-turnos24x7-isotipo.jpg",
     "slug": "turnos-24x7",
     "status": "down",
-    "uptime": "31.60%",
+    "uptime": "31.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.02%",
-    "time": 16120,
-    "timeDay": 74,
+    "time": 16092,
+    "timeDay": 115,
     "timeWeek": 111,
-    "timeMonth": 13125,
-    "timeYear": 15375,
+    "timeMonth": 12536,
+    "timeYear": 15334,
     "dailyMinutesDown": {
-      "2026-04-20": 224,
+      "2026-04-21": 215,
+      "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
@@ -1489,8 +1490,7 @@
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
-      "2025-04-22": 1440,
-      "2025-04-21": 1440
+      "2025-04-22": 1440
     }
   },
   {
@@ -1499,18 +1499,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth-dev.alternativasinteligentes.com.ico",
     "slug": "auth-user-service",
     "status": "down",
-    "uptime": "71.93%",
+    "uptime": "71.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 181,
-    "timeDay": 227,
-    "timeWeek": 195,
+    "timeDay": 169,
+    "timeWeek": 183,
     "timeMonth": 185,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2026-04-20": 224,
+      "2026-04-21": 215,
+      "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
@@ -1873,8 +1874,7 @@
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
-      "2025-04-22": 1440,
-      "2025-04-21": 1440
+      "2025-04-22": 1440
     }
   },
   {
@@ -1883,18 +1883,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/sender.alternativasinteligentes.com.ico",
     "slug": "sender-service",
     "status": "down",
-    "uptime": "74.81%",
+    "uptime": "74.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "7.96%",
     "time": 11550,
-    "timeDay": 94,
-    "timeWeek": 129,
-    "timeMonth": 13340,
-    "timeYear": 16222,
+    "timeDay": 121,
+    "timeWeek": 130,
+    "timeMonth": 12718,
+    "timeYear": 16174,
     "dailyMinutesDown": {
-      "2026-04-20": 224,
+      "2026-04-21": 215,
+      "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
@@ -2236,8 +2237,7 @@
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
-      "2025-04-22": 1440,
-      "2025-04-21": 1440
+      "2025-04-22": 1440
     }
   },
   {
@@ -2246,18 +2246,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/templates-sender-service.alternativasinteligentes.com.ico",
     "slug": "templates-sender-service",
     "status": "down",
-    "uptime": "74.81%",
+    "uptime": "74.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "7.97%",
     "time": 11622,
-    "timeDay": 62,
-    "timeWeek": 117,
-    "timeMonth": 13316,
-    "timeYear": 16228,
+    "timeDay": 161,
+    "timeWeek": 124,
+    "timeMonth": 12692,
+    "timeYear": 16181,
     "dailyMinutesDown": {
-      "2026-04-20": 224,
+      "2026-04-21": 216,
+      "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
       "2026-04-17": 1440,
@@ -2599,8 +2600,7 @@
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
-      "2025-04-22": 1440,
-      "2025-04-21": 1440
+      "2025-04-22": 1440
     }
   }
 ]
